@@ -1,5 +1,7 @@
 ### 👋 Hello!
 
+Greetings! I am an undergraduate Software Engineer based in Sri Lanka, driven by a fervent passion for developing sophisticated solutions to intricate challenges. Equipped with a robust understanding of software engineering fundamentals and a commitment to perpetual growth, I am adept at tackling endeavors that propel the frontier of innovation. My GitHub portfolio serves as a testament to my expertise, featuring a collection of projects that underscore my proficiency and unwavering dedication to the field. I welcome the opportunity to engage, collaborate, and together, engineer remarkable outcomes.
+
 <!--
 **asloobahmd/asloobahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
