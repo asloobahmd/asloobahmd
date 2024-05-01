@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asloobahmd&label=Profile%20views&color=0e75b6&style=flat" alt="asloobahmd" /> </p>
 
+<hr style="border: 0; height: 2px; background-color: black; width: 50%;">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en"  height="180" alt="stats graph"  />
@@ -9,10 +10,9 @@
    alt="languages graph"  />
 </div>
 
-###
+<hr style="border: 0; height: 2px; background-color: black; width: 50%;">
 
 <h3 align="left">Skills:</h3>
-
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="36" alt="javascript logo"  />
@@ -61,4 +61,4 @@
   <img width="12" />
 </div>
 
-###
+<hr style="border: 0; height: 2px; background-color: black; width: 50%;">
