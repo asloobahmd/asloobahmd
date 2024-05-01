@@ -3,13 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asloobahmd&label=Profile%20views&color=0e75b6&style=flat" alt="asloobahmd" /> </p>
 
 
-
-
-
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en"  height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en"  height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
