@@ -5,7 +5,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en"  height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="180"    
+   alt="languages graph"  />
 </div>
 
 ###
@@ -18,6 +19,8 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="36" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
@@ -25,6 +28,8 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="36" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="sass logo"  />
   <img width="12" />
@@ -42,13 +47,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="36" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="36" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="36" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="36" alt="amazonwebservices logo"  />
+  <img width="12" />
 </div>
 
 ###
