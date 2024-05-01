@@ -2,15 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asloobahmd&label=Profile%20views&color=0e75b6&style=flat" alt="asloobahmd" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en" alt="asloobahmd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asloobahmd&show_icons=true&locale=en" alt="asloobahmd" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&show_icons=true&locale=en&layout=compact" alt="asloobahmd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asloobahmd&show_icons=true&locale=en&layout=compact" alt="asloobahmd" /></p> <br>
 
 
-
-- 💬 Ask me about **.NET Stack, Git**
-
-- 📫 How to reach me **asloobahmd@gmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
