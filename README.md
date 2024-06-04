@@ -1,5 +1,6 @@
 <h3 align="left">Hi there, I'm Asloob 👋</h3>
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asloobahmd&label=Profile%20views&color=0e75b6&style=flat" alt="asloobahmd" /> </p>
 
 <hr style="border: 0; height: 2px; background-color: black; width: 50%;">
